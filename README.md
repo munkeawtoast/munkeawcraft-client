@@ -7,8 +7,8 @@ Actually what it does is install mods and configs from my [packwiz](http://packw
 
 ### Installation steps:
 1. Install and open [Prism Launcher](https://prismlauncher.org/download)
-2. Download latest from [releases](https://github.com/munkeawtoast/munkeawcraft-client/releases)
-3. Drag and drop it into the launcher
+2. Add instance -> import from zip
+3. Enter ```https://github.com/munkeawtoast/munkeawcraft-client/releases/latest/download/munkeawcraft.zip```
 4. Enjoy! ;)
 
 **Optional steps(copy original version's data):**
